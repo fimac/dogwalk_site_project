@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+li {
+  list-style: none;
+}
+
+.landing-page {
+  height: 100vh;
+  background-image: url("../assets/dog-landing.jpg");
+  background-size: cover;
+  z-index: -1;
+}

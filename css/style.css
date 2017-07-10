@@ -10,5 +10,17 @@ li {
   height: 100vh;
   background-image: url("../assets/dog-landing.jpg");
   background-size: cover;
-  z-index: -1;
+}
+
+.intro {
+  margin: 20vh auto;
+  width: 50%;
+  height: 30%;
+  text-align: center;
+  color: white;
+  border: 2px solid white;
+}
+
+.intro h1 {
+  font-size: 60px;
 }
